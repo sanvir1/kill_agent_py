@@ -62,5 +62,4 @@
 - Запустить build.bat
 
 #### Собранный релиз программы
-
-
+- https://github.com/sanvir1/kill_agent_py/releases/tag/buld
