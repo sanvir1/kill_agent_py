@@ -1,0 +1,4 @@
+psutil==5.9.5
+pystray==0.19.4
+Pillow==10.1.0
+pyinstaller==6.2.0
